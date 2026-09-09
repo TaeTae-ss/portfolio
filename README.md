@@ -66,7 +66,7 @@ REST API 설계부터 데이터베이스, 인증/인가까지 직접 구현하�
 * JWT 발급 및 검증
 * 마이페이지
 * 관리자 기능
-* 회원 및 러닝 참여 관련 API 구현
+* 회원 및 후기 관련 API 구현
 * React 프론트엔드와 REST API 연동
 
 **Troubleshooting**
