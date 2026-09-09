@@ -1,4 +1,4 @@
-# 우태식 | Backend Developer
+# 우태식 | Frontend & Backend Developer
 
 Java와 Spring Boot를 기반으로 웹 서비스를 개발하고 있습니다.
 
