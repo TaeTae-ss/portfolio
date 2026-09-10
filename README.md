@@ -28,6 +28,7 @@ REST API 설계부터 데이터베이스, 인증/인가까지 직접 구현하�
 * JavaScript
 * HTML / CSS
 * Tailwind CSS
+* antd
 
 ### Tools
 
