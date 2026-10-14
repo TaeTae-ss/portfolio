@@ -14,6 +14,7 @@ REST API 설계, 데이터베이스 구축, 프론트엔드와 백엔드 연동�
 * Java
 * Spring Boot
 * Spring Data JPA
+* MyBatis
 * Spring Security
 * JWT
 
